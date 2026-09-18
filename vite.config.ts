@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/smart-ot-teaching/',
+  base: '/smart-ot-web/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, '.'),
