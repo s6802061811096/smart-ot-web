@@ -1,0 +1,6 @@
+{
+  "name": "SMART OT TEACHING - ระบบคำนวณค่าสอนเกินภาระงานสอน",
+  "description": "ระบบสารสนเทศเพื่อคำนวณ ตรวจสอบ และจัดทำข้อมูลประกอบการเบิกจ่ายค่าสอนเกินภาระงานสอน ตามระเบียบ สอศ. พ.ศ. 2568",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
